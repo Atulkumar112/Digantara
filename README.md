@@ -1,7 +1,9 @@
-Below is the steps to setup the environment.
+Below is the steps to setup the environment of the code.
 
-# Digantara![Screenshot (203)](https://user-images.githubusercontent.com/57915384/230708544-be8a0fc2-2920-4477-aeca-8023e9acb70a.png)
-![Screenshot (201)](https://user-images.githubusercontent.com/57915384/230708551-5cb6e144-eeb3-44b9-94ea-d44b5041d540.png)
+![Screenshot (279)](https://user-images.githubusercontent.com/57915384/230708865-537fe015-e004-410f-872a-e1e231cd296f.png)
+
+<!-- # Digantara![Screenshot (203)](https://user-images.githubusercontent.com/57915384/230708544-be8a0fc2-2920-4477-aeca-8023e9acb70a.png)
+![Screenshot (201)](https://user-images.githubusercontent.com/57915384/230708551-5cb6e144-eeb3-44b9-94ea-d44b5041d540.png) -->
 
 
 Or if you want to run this given repository code then follow only below steps.
