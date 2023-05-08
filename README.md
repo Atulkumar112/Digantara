@@ -15,3 +15,11 @@ Step 2:-  open this in your vs code. Make sure you are in the "Real Earth" folde
 Step 3:- I used Vanilla JS. it's a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications. So just open the terminal in vs code and install the Vite. command is:- npm install vite
 Step 4: Command to run the code:- npm run dev
 Step 5:- Then you will be able to see the local host link. just click and see.
+
+//Demo of this project 
+
+
+
+https://user-images.githubusercontent.com/57915384/236821459-a7cf302f-fe5e-4ca5-8fa6-21ee617a0fe9.mp4
+
+
